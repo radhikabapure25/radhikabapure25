@@ -1,4 +1,4 @@
-# Radhika — Actor & Backend Developer
+# Radhika — Backend Developer
 
 An acting portfolio and introduction to my backend development work, presented in a cinematic, mobile-friendly design.
 
